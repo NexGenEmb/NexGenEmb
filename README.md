@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Koketso Gerald Moeti
 
-<!--
-**NexGenEmb/NexGenEmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical Engineering Graduate | Embedded Systems & Automation
+*Recent BEngTech Graduate from Tshwane University of Technology with a distinction in Advanced Embedded Systems and a Lean Six Sigma Yellow Belt (Cum Laude).*
 
-Here are some ideas to get you started:
+## 🔧 Technical Focus
+I build practical solutions at the intersection of hardware and software:
+*   **Embedded & Firmware:** C/C++/Python, AVR (ATmega328P), ESP32, Arduino, MODBUS/SPI/I2C/UART
+*   **Electrical Systems:** Power Control, Signal Processing, Circuit Design
+*   **Software & Tools:** Python, MATLAB, Git, Proteus
+*   **Methodology:** Lean Six Sigma (DMAIC) for process improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+Below are my key projects that demonstrate this skillset.
+
+## 📫 Let's Connect
+*   **Email:** koketsomoeti@gmail.com
