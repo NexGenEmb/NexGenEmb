@@ -5,7 +5,7 @@
 
 ## 🔧 Technical Focus
 I build practical solutions at the intersection of hardware and software:
-*   **Embedded & Firmware:** C/C++/Python, AVR (ATmega328P), ESP32, Arduino, MODBUS/SPI/I2C/UART
+*   **Embedded & Firmware:** C/C++, AVR (ATmega328P), ESP32, Arduino, MODBUS/SPI/I2C/UART
 *   **Electrical Systems:** Power Control, Signal Processing, Circuit Design
 *   **Software & Tools:** Python, MATLAB, Git, Proteus
 *   **Methodology:** Lean Six Sigma (DMAIC) for process improvement
