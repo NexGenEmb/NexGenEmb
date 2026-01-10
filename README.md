@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Koketso Gerald Moeti
 
-### Electrical Engineering Graduate
-*Recent BEngTech Graduate from Tshwane University of Technology with a distinction in Advanced Embedded Systems and a Lean Six Sigma Yellow Belt .*
+### Electrical Engineering Technology
+*I hold a BEngTech from Tshwane University of Technology with a distinction in Advanced Embedded Systems and a Lean Six Sigma Yellow Belt .*
 
 ## 🔧 Technical Focus
 I build practical solutions at the intersection of hardware and software:
