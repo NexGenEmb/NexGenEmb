@@ -2,6 +2,7 @@
 
 ### Electrical Engineering Technology
  **2025 TUT Department of Electrical Engineering Student Projects Exhibition Day Winner**
+ 
 BEngTech graduate from Tshwane University of Technology with a dinstinction in Advancrd Embedded Systems and a Lean Six Sigma Yellow Belt.
 
 ## 🔧 Technical Focus
