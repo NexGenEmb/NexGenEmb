@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Koketso Gerald Moeti
 
 ### Electrical Engineering Technology
-* **2025 TUT Department of Electrical Engineering Student Projects Exhibition Day Winner**
-
-I hold a BEngTech from Tshwane University of Technology with a dinstinction in Advancrd Embedded Systems and a Lean Six Sigma Yellow Belt.
+ **2025 TUT Department of Electrical Engineering Student Projects Exhibition Day Winner**
+BEngTech graduate from Tshwane University of Technology with a dinstinction in Advancrd Embedded Systems and a Lean Six Sigma Yellow Belt.
 
 ## 🔧 Technical Focus
 I build practical solutions at the intersection of hardware and software:
