@@ -2,7 +2,7 @@
 
 ### Electrical Engineering Technology
 * **2025 TUT Department of Electrical Engineering Student Projects Exhibition Day Winner**
-* 
+
 *I hold a BEngTech from Tshwane University of Technology with a distinction in Advanced Embedded Systems and a Lean Six Sigma Yellow Belt .*
 
 ## 🔧 Technical Focus
