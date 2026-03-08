@@ -16,5 +16,5 @@ I build practical solutions at the intersection of hardware and software:
 Below are my key projects.
 
 ## 📫 Let's Connect
-*   **Linkedin:** https://www.linkedin.com/in/koketso-moeti-353603370/
+*   **Linkedin:** www.linkedin.com/in/koketso-gerald-moeti
 *   **Email:** koketsomoeti@gmail.com
